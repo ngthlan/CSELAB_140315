@@ -1,0 +1,3 @@
+COMport:COM3
+Baud:9600
+Parity:None
